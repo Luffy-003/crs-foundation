@@ -1,1 +1,0 @@
-console.log("CRS Foundation Website Loaded");
