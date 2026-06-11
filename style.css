@@ -805,3 +805,27 @@ header{
 .top-bar a:hover{
     color:#ffd700;
 }
+.why-donate{
+  /*  background: #ffffff;*/
+    padding: 50px;
+    margin: 30px 0;
+    border-radius: 12px;
+   /* box-shadow: 0 2px 10px rgba(0,0,0,0.08);*/
+}
+
+.why-donate h2{
+    color: #0b3d91;
+    margin-bottom: 15px;
+}
+
+.trust-points{
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+
+.trust-points div{
+    font-size: 16px;
+    color: #333;
+    font-weight: 500;
+}
